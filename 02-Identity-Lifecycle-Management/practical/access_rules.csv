@@ -1,0 +1,60 @@
+role,system,access_level
+Teller,Core Banking System (CBS),Standard User
+Teller,Active Directory,Standard User
+Teller,Email,Standard User
+Developer,Active Directory,Standard User
+Developer,Source Code Repository,Contributor
+Developer,Dev/Test Environment,Admin
+Developer,Email,Standard User
+Manager,Core Banking System (CBS),Approver
+Manager,ERP (SAP),Approver
+Manager,Active Directory,Standard User
+Manager,Email,Standard User
+Operations Officer,Core Banking System (CBS),Standard User
+Operations Officer,Payment Processing System,Standard User
+Operations Officer,Active Directory,Standard User
+Operations Officer,Email,Standard User
+Finance Officer,ERP (SAP),Standard User
+Finance Officer,General Ledger System,Standard User
+Finance Officer,Active Directory,Standard User
+Finance Officer,Email,Standard User
+Compliance Officer,AML/Compliance Monitoring System,Admin
+Compliance Officer,Core Banking System (CBS),Read-Only
+Compliance Officer,Active Directory,Standard User
+Compliance Officer,Email,Standard User
+Risk Analyst,Risk Management System,Standard User
+Risk Analyst,Core Banking System (CBS),Read-Only
+Risk Analyst,Bloomberg Terminal,Standard User
+Risk Analyst,Active Directory,Standard User
+Credit Analyst,Loan Origination System (LOS),Standard User
+Credit Analyst,Credit Bureau Portal,Standard User
+Credit Analyst,Active Directory,Standard User
+Credit Analyst,Email,Standard User
+Treasury Analyst,Treasury Management System (TMS),Standard User
+Treasury Analyst,Bloomberg Terminal,Standard User
+Treasury Analyst,SWIFT,Read-Only
+Treasury Analyst,Active Directory,Standard User
+Branch Manager,Core Banking System (CBS),Approver
+Branch Manager,Teller Cash Management System,Approver
+Branch Manager,Active Directory,Standard User
+Branch Manager,Email,Standard User
+Auditor,Internal Audit Tool,Admin
+Auditor,Core Banking System (CBS),Read-Only
+Auditor,ERP (SAP),Read-Only
+Auditor,Active Directory,Standard User
+IT Security Analyst,SIEM Platform,Admin
+IT Security Analyst,Identity and Access Management (IAM) Console,Admin
+IT Security Analyst,Active Directory,Admin
+IT Security Analyst,Email,Standard User
+Loan Officer,Loan Origination System (LOS),Standard User
+Loan Officer,Credit Bureau Portal,Standard User
+Loan Officer,Active Directory,Standard User
+Loan Officer,Email,Standard User
+HR Business Partner,HR Information System (HRIS),Standard User
+HR Business Partner,Payroll System,Read-Only
+HR Business Partner,Active Directory,Standard User
+HR Business Partner,Email,Standard User
+Relationship Manager,Core Banking System (CBS),Standard User
+Relationship Manager,CRM,Standard User
+Relationship Manager,Active Directory,Standard User
+Relationship Manager,Email,Standard User
