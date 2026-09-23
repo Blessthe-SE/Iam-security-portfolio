@@ -1,6 +1,0 @@
-employee_id,department,role,jml_event
-EMP001,Finance,Accountant,Joiner
-EMP002,IT,Developer,Joiner
-EMP003,Finance,Manager,Mover
-EMP004,Operations,Officer,Leaver
-EMP005,Finance,Finance Officer,Mover
