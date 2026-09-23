@@ -1,0 +1,16 @@
+employee_id,department,role,jml_event
+EMP001,Retail Banking,Teller,Joiner
+EMP002,IT,Developer,Joiner
+EMP003,Finance,Manager,Mover
+EMP004,Operations,Operations Officer,Leaver
+EMP005,Finance,Finance Officer,Mover
+EMP006,Compliance,Compliance Officer,Joiner
+EMP007,Risk,Risk Analyst,Joiner
+EMP008,Credit,Credit Analyst,Mover
+EMP009,Treasury,Treasury Analyst,Joiner
+EMP010,Retail Banking,Branch Manager,Mover
+EMP011,Internal Audit,Auditor,Joiner
+EMP012,IT,IT Security Analyst,Joiner
+EMP013,Credit,Loan Officer,Leaver
+EMP014,HR,HR Business Partner,Joiner
+EMP015,Retail Banking,Relationship Manager,Leaver
