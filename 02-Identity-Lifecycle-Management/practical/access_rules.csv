@@ -1,9 +1,0 @@
-role,system,access_level
-Accountant,Finance System,Standard
-Developer,Git Repository,Developer
-Developer,Development Environment,Standard
-Manager,Finance System,Manager
-Manager,Financial Reporting,Manager
-Finance Officer,Finance System,Standard
-Finance Officer,Customer Records,Standard
-Officer,Operations System,Standard
